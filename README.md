@@ -1,4 +1,4 @@
-# Arduino-IRCounter
+# Arduino Infrared Counter
 
 IRCounter.h - Arduino library for counting object using infrared sensor
 
